@@ -1,0 +1,7 @@
+C:\Users\vagunda\VisualStudionProjects\valueVS_referencies\valueVSreferencies\valueVSreferencies\obj\Debug\valueVSreferencies.csprojAssemblyReference.cache
+C:\Users\vagunda\VisualStudionProjects\valueVS_referencies\valueVSreferencies\valueVSreferencies\obj\Debug\valueVSreferencies.csproj.CoreCompileInputs.cache
+C:\Users\vagunda\VisualStudionProjects\valueVS_referencies\valueVSreferencies\valueVSreferencies\bin\Debug\valueVSreferencies.exe.config
+C:\Users\vagunda\VisualStudionProjects\valueVS_referencies\valueVSreferencies\valueVSreferencies\bin\Debug\valueVSreferencies.exe
+C:\Users\vagunda\VisualStudionProjects\valueVS_referencies\valueVSreferencies\valueVSreferencies\bin\Debug\valueVSreferencies.pdb
+C:\Users\vagunda\VisualStudionProjects\valueVS_referencies\valueVSreferencies\valueVSreferencies\obj\Debug\valueVSreferencies.exe
+C:\Users\vagunda\VisualStudionProjects\valueVS_referencies\valueVSreferencies\valueVSreferencies\obj\Debug\valueVSreferencies.pdb
